@@ -113,7 +113,8 @@ Click "Decrypt" to reveal the hidden message.
 
 🔹 Decryption Page
 
-![image](https://github.com/user-attachments/assets/feac0812-6be8-4148-abee-6cdc0b2bb9c4)
+![image](https://github.com/user-attachments/assets/c233baea-64a2-44bb-8a87-e1c003488ded)
+
 
 
 
